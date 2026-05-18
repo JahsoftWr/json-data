@@ -1,175 +1,836 @@
 {
-  "name": "FIFA World Cup 2026",
-  "matches": [
-    {
-      "round": "Grupo A - Primera fase",
-      "date": "2026-06-11",
-      "time": "16:00",
-      "team1": "México",
-      "team2": "Sudáfrica",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo A - Primera fase",
-      "date": "2026-06-11",
-      "time": "23:00",
-      "team1": "República de Corea",
-      "team2": "Chequia",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo B - Primera fase",
-      "date": "2026-06-12",
-      "time": "16:00",
-      "team1": "Canadá",
-      "team2": "Bosnia y Herzegovina",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo D - Primera fase",
-      "date": "2026-06-12",
-      "time": "22:00",
-      "team1": "EE. UU.",
-      "team2": "Paraguay",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo B - Primera fase",
-      "date": "2026-06-13",
-      "time": "16:00",
-      "team1": "Catar",
-      "team2": "Suiza",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo C - Primera fase",
-      "date": "2026-06-13",
-      "time": "19:00",
-      "team1": "Brasil",
-      "team2": "Marruecos",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo C - Primera fase",
-      "date": "2026-06-13",
-      "time": "22:00",
-      "team1": "Haití",
-      "team2": "Escocia",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo D - Primera fase",
-      "date": "2026-06-14",
-      "time": "01:00",
-      "team1": "Australia",
-      "team2": "Turquía",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo E - Primera fase",
-      "date": "2026-06-14",
-      "time": "14:00",
-      "team1": "Alemania",
-      "team2": "Curazao",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo F - Primera fase",
-      "date": "2026-06-14",
-      "time": "17:00",
-      "team1": "Países Bajos",
-      "team2": "Japón",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo E - Primera fase",
-      "date": "2026-06-14",
-      "time": "20:00",
-      "team1": "Costa de Marfil",
-      "team2": "Ecuador",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo F - Primera fase",
-      "date": "2026-06-14",
-      "time": "23:00",
-      "team1": "Suecia",
-      "team2": "Túnez",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo H - Primera fase",
-      "date": "2026-06-15",
-      "time": "13:00",
-      "team1": "España",
-      "team2": "Islas de Cabo Verde",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo G - Primera fase",
-      "date": "2026-06-15",
-      "time": "16:00",
-      "team1": "Bélgica",
-      "team2": "Egipto",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo H - Primera fase",
-      "date": "2026-06-15",
-      "time": "19:00",
-      "team1": "Arabia Saudí",
-      "team2": "Uruguay",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo G - Primera fase",
-      "date": "2026-06-15",
-      "time": "22:00",
-      "team1": "RI de Irán",
-      "team2": "Nueva Zelanda",
-      "score": {
-        "ft": [0, 0]
-      }
-    },
-    {
-      "round": "Grupo I - Primera fase",
-      "date": "2026-06-16",
-      "time": "16:00",
-      "team1": "Francia",
-      "team2": "Senegal",
-      "score": {
-        "ft": [0, 0]
-      }
-    }
-  ]
+    "matches": [
+        {
+            "round": "Grupo A",
+            "team1": "México",
+            "team2": "Sudáfrica",
+            "date": "jueves 11 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo A",
+            "team1": "República de Corea",
+            "team2": "Chequia",
+            "date": "jueves 11 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Grupo B",
+            "team1": "Canadá",
+            "team2": "Bosnia y Herzegovina",
+            "date": "viernes 12 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo D",
+            "team1": "EE. UU.",
+            "team2": "Paraguay",
+            "date": "viernes 12 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo B",
+            "team1": "Catar",
+            "team2": "Suiza",
+            "date": "sábado 13 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo C",
+            "team1": "Brasil",
+            "team2": "Marruecos",
+            "date": "sábado 13 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo C",
+            "team1": "Haití",
+            "team2": "Escocia",
+            "date": "sábado 13 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo D",
+            "team1": "Australia",
+            "team2": "Turquía",
+            "date": "domingo 14 junio 2026",
+            "time": "01:00",
+            "score": null
+        },
+        {
+            "round": "Grupo E",
+            "team1": "Alemania",
+            "team2": "Curazao",
+            "date": "domingo 14 junio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Grupo F",
+            "team1": "Países Bajos",
+            "team2": "Japón",
+            "date": "domingo 14 junio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Grupo E",
+            "team1": "Costa de Marfil",
+            "team2": "Ecuador",
+            "date": "domingo 14 junio 2026",
+            "time": "20:00",
+            "score": null
+        },
+        {
+            "round": "Grupo F",
+            "team1": "Suecia",
+            "team2": "Túnez",
+            "date": "domingo 14 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Grupo H",
+            "team1": "España",
+            "team2": "Islas de Cabo Verde",
+            "date": "lunes 15 junio 2026",
+            "time": "13:00",
+            "score": null
+        },
+        {
+            "round": "Grupo G",
+            "team1": "Bélgica",
+            "team2": "Egipto",
+            "date": "lunes 15 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo H",
+            "team1": "Arabia Saudí",
+            "team2": "Uruguay",
+            "date": "lunes 15 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo G",
+            "team1": "RI de Irán",
+            "team2": "Nueva Zelanda",
+            "date": "lunes 15 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo I",
+            "team1": "Francia",
+            "team2": "Senegal",
+            "date": "martes 16 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo I",
+            "team1": "Irak",
+            "team2": "Noruega",
+            "date": "martes 16 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo J",
+            "team1": "Argentina",
+            "team2": "Argelia",
+            "date": "martes 16 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo J",
+            "team1": "Austria",
+            "team2": "Jordania",
+            "date": "miércoles 17 junio 2026",
+            "time": "01:00",
+            "score": null
+        },
+        {
+            "round": "Grupo K",
+            "team1": "Portugal",
+            "team2": "RD Congo",
+            "date": "miércoles 17 junio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Grupo L",
+            "team1": "Inglaterra",
+            "team2": "Croacia",
+            "date": "miércoles 17 junio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Grupo L",
+            "team1": "Ghana",
+            "team2": "Panamá",
+            "date": "miércoles 17 junio 2026",
+            "time": "20:00",
+            "score": null
+        },
+        {
+            "round": "Grupo K",
+            "team1": "Uzbekistán",
+            "team2": "Colombia",
+            "date": "miércoles 17 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Grupo A",
+            "team1": "Chequia",
+            "team2": "Sudáfrica",
+            "date": "jueves 18 junio 2026",
+            "time": "13:00",
+            "score": null
+        },
+        {
+            "round": "Grupo B",
+            "team1": "Suiza",
+            "team2": "Bosnia y Herzegovina",
+            "date": "jueves 18 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo B",
+            "team1": "Canadá",
+            "team2": "Catar",
+            "date": "jueves 18 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo A",
+            "team1": "México",
+            "team2": "República de Corea",
+            "date": "jueves 18 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo D",
+            "team1": "EE. UU.",
+            "team2": "Australia",
+            "date": "viernes 19 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo C",
+            "team1": "Escocia",
+            "team2": "Marruecos",
+            "date": "viernes 19 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo C",
+            "team1": "Brasil",
+            "team2": "Haití",
+            "date": "viernes 19 junio 2026",
+            "time": "21:30",
+            "score": null
+        },
+        {
+            "round": "Grupo D",
+            "team1": "Turquía",
+            "team2": "Paraguay",
+            "date": "sábado 20 junio 2026",
+            "time": "00:00",
+            "score": null
+        },
+        {
+            "round": "Grupo F",
+            "team1": "Países Bajos",
+            "team2": "Suecia",
+            "date": "sábado 20 junio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Grupo E",
+            "team1": "Alemania",
+            "team2": "Costa de Marfil",
+            "date": "sábado 20 junio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Grupo E",
+            "team1": "Ecuador",
+            "team2": "Curazao",
+            "date": "sábado 20 junio 2026",
+            "time": "21:00",
+            "score": null
+        },
+        {
+            "round": "Grupo F",
+            "team1": "Túnez",
+            "team2": "Japón",
+            "date": "domingo 21 junio 2026",
+            "time": "01:00",
+            "score": null
+        },
+        {
+            "round": "Grupo H",
+            "team1": "España",
+            "team2": "Arabia Saudí",
+            "date": "domingo 21 junio 2026",
+            "time": "13:00",
+            "score": null
+        },
+        {
+            "round": "Grupo G",
+            "team1": "Bélgica",
+            "team2": "RI de Irán",
+            "date": "domingo 21 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo H",
+            "team1": "Uruguay",
+            "team2": "Islas de Cabo Verde",
+            "date": "domingo 21 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo G",
+            "team1": "Nueva Zelanda",
+            "team2": "Egipto",
+            "date": "domingo 21 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo J",
+            "team1": "Argentina",
+            "team2": "Austria",
+            "date": "lunes 22 junio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Grupo I",
+            "team1": "Francia",
+            "team2": "Irak",
+            "date": "lunes 22 junio 2026",
+            "time": "18:00",
+            "score": null
+        },
+        {
+            "round": "Grupo I",
+            "team1": "Noruega",
+            "team2": "Senegal",
+            "date": "lunes 22 junio 2026",
+            "time": "21:00",
+            "score": null
+        },
+        {
+            "round": "Grupo J",
+            "team1": "Jordania",
+            "team2": "Argelia",
+            "date": "martes 23 junio 2026",
+            "time": "00:00",
+            "score": null
+        },
+        {
+            "round": "Grupo K",
+            "team1": "Portugal",
+            "team2": "Uzbekistán",
+            "date": "martes 23 junio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Grupo L",
+            "team1": "Inglaterra",
+            "team2": "Ghana",
+            "date": "martes 23 junio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Grupo L",
+            "team1": "Panamá",
+            "team2": "Croacia",
+            "date": "martes 23 junio 2026",
+            "time": "20:00",
+            "score": null
+        },
+        {
+            "round": "Grupo K",
+            "team1": "Colombia",
+            "team2": "RD Congo",
+            "date": "martes 23 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Grupo B",
+            "team1": "Suiza",
+            "team2": "Canadá",
+            "date": "miércoles 24 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo B",
+            "team1": "Bosnia y Herzegovina",
+            "team2": "Catar",
+            "date": "miércoles 24 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo C",
+            "team1": "Escocia",
+            "team2": "Brasil",
+            "date": "miércoles 24 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo C",
+            "team1": "Marruecos",
+            "team2": "Haití",
+            "date": "miércoles 24 junio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Grupo A",
+            "team1": "Chequia",
+            "team2": "México",
+            "date": "miércoles 24 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo A",
+            "team1": "Sudáfrica",
+            "team2": "República de Corea",
+            "date": "miércoles 24 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Grupo E",
+            "team1": "Curazao",
+            "team2": "Costa de Marfil",
+            "date": "jueves 25 junio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Grupo E",
+            "team1": "Ecuador",
+            "team2": "Alemania",
+            "date": "jueves 25 junio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Grupo F",
+            "team1": "Japón",
+            "team2": "Suecia",
+            "date": "jueves 25 junio 2026",
+            "time": "20:00",
+            "score": null
+        },
+        {
+            "round": "Grupo F",
+            "team1": "Túnez",
+            "team2": "Países Bajos",
+            "date": "jueves 25 junio 2026",
+            "time": "20:00",
+            "score": null
+        },
+        {
+            "round": "Grupo D",
+            "team1": "Turquía",
+            "team2": "EE. UU.",
+            "date": "jueves 25 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Grupo D",
+            "team1": "Paraguay",
+            "team2": "Australia",
+            "date": "jueves 25 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Grupo I",
+            "team1": "Noruega",
+            "team2": "Francia",
+            "date": "viernes 26 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo I",
+            "team1": "Senegal",
+            "team2": "Irak",
+            "date": "viernes 26 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Grupo H",
+            "team1": "Islas de Cabo Verde",
+            "team2": "Arabia Saudí",
+            "date": "viernes 26 junio 2026",
+            "time": "21:00",
+            "score": null
+        },
+        {
+            "round": "Grupo H",
+            "team1": "Uruguay",
+            "team2": "España",
+            "date": "viernes 26 junio 2026",
+            "time": "21:00",
+            "score": null
+        },
+        {
+            "round": "Grupo G",
+            "team1": "Egipto",
+            "team2": "RI de Irán",
+            "date": "sábado 27 junio 2026",
+            "time": "00:00",
+            "score": null
+        },
+        {
+            "round": "Grupo G",
+            "team1": "Nueva Zelanda",
+            "team2": "Bélgica",
+            "date": "sábado 27 junio 2026",
+            "time": "00:00",
+            "score": null
+        },
+        {
+            "round": "Grupo L",
+            "team1": "Panamá",
+            "team2": "Inglaterra",
+            "date": "sábado 27 junio 2026",
+            "time": "18:00",
+            "score": null
+        },
+        {
+            "round": "Grupo L",
+            "team1": "Croacia",
+            "team2": "Ghana",
+            "date": "sábado 27 junio 2026",
+            "time": "18:00",
+            "score": null
+        },
+        {
+            "round": "Grupo K",
+            "team1": "Colombia",
+            "team2": "Portugal",
+            "date": "sábado 27 junio 2026",
+            "time": "20:30",
+            "score": null
+        },
+        {
+            "round": "Grupo K",
+            "team1": "RD Congo",
+            "team2": "Uzbekistán",
+            "date": "sábado 27 junio 2026",
+            "time": "20:30",
+            "score": null
+        },
+        {
+            "round": "Grupo J",
+            "team1": "Argelia",
+            "team2": "Austria",
+            "date": "sábado 27 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Grupo J",
+            "team1": "Jordania",
+            "team2": "Argentina",
+            "date": "sábado 27 junio 2026",
+            "time": "23:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "2A",
+            "team2": "2B",
+            "date": "domingo 28 junio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1C",
+            "team2": "2F",
+            "date": "lunes 29 junio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1E",
+            "team2": "3ABCDF",
+            "date": "lunes 29 junio 2026",
+            "time": "17:30",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1F",
+            "team2": "2C",
+            "date": "lunes 29 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "2E",
+            "team2": "2I",
+            "date": "martes 30 junio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1I",
+            "team2": "3CDFGH",
+            "date": "martes 30 junio 2026",
+            "time": "18:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1A",
+            "team2": "3CEFHI",
+            "date": "martes 30 junio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1L",
+            "team2": "3EHIJK",
+            "date": "miércoles 01 julio 2026",
+            "time": "13:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1G",
+            "team2": "3AEHIJ",
+            "date": "miércoles 01 julio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1D",
+            "team2": "3BEFIJ",
+            "date": "miércoles 01 julio 2026",
+            "time": "21:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1H",
+            "team2": "2J",
+            "date": "jueves 02 julio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "2K",
+            "team2": "2L",
+            "date": "jueves 02 julio 2026",
+            "time": "20:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1B",
+            "team2": "3EFGIJ",
+            "date": "viernes 03 julio 2026",
+            "time": "00:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "2D",
+            "team2": "2G",
+            "date": "viernes 03 julio 2026",
+            "time": "15:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1J",
+            "team2": "2H",
+            "date": "viernes 03 julio 2026",
+            "time": "19:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "1K",
+            "team2": "3DEIJL",
+            "date": "viernes 03 julio 2026",
+            "time": "22:30",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W73",
+            "team2": "W75",
+            "date": "sábado 04 julio 2026",
+            "time": "14:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W74",
+            "team2": "W77",
+            "date": "sábado 04 julio 2026",
+            "time": "18:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W76",
+            "team2": "W78",
+            "date": "domingo 05 julio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W79",
+            "team2": "W80",
+            "date": "domingo 05 julio 2026",
+            "time": "21:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W83",
+            "team2": "W84",
+            "date": "lunes 06 julio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W81",
+            "team2": "W82",
+            "date": "lunes 06 julio 2026",
+            "time": "21:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W86",
+            "team2": "W88",
+            "date": "martes 07 julio 2026",
+            "time": "13:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W85",
+            "team2": "W87",
+            "date": "martes 07 julio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W89",
+            "team2": "W90",
+            "date": "jueves 09 julio 2026",
+            "time": "17:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W93",
+            "team2": "W94",
+            "date": "viernes 10 julio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W91",
+            "team2": "W92",
+            "date": "sábado 11 julio 2026",
+            "time": "18:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W95",
+            "team2": "W96",
+            "date": "sábado 11 julio 2026",
+            "time": "22:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W97",
+            "team2": "W98",
+            "date": "martes 14 julio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W99",
+            "team2": "W100",
+            "date": "miércoles 15 julio 2026",
+            "time": "16:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "RU101",
+            "team2": "RU102",
+            "date": "sábado 18 julio 2026",
+            "time": "18:00",
+            "score": null
+        },
+        {
+            "round": "Primera fase",
+            "team1": "W101",
+            "team2": "W102",
+            "date": "domingo 19 julio 2026",
+            "time": "16:00",
+            "score": null
+        }
+    ]
 }
