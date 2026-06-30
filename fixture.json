@@ -699,8 +699,8 @@
             "team2": "Suecia",
             "date": "martes 30 junio 2026",
             "stadium": "Estadio Nueva York\/Nueva Jersey (Nueva Jersey)",
-            "status": "18:00",
-            "score": "-"
+            "status": "ET",
+            "score": "1 - 0"
         },
         {
             "round": "Dieciseisavos de final",
@@ -813,7 +813,7 @@
         {
             "round": "Octavos de final",
             "team1": "Brasil",
-            "team2": "W78",
+            "team2": "Noruega",
             "date": "domingo 05 julio 2026",
             "stadium": "Estadio Nueva York\/Nueva Jersey (Nueva Jersey)",
             "status": "17:00",
