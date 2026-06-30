@@ -690,8 +690,8 @@
             "team2": "Noruega",
             "date": "Fase Final",
             "stadium": "Estadio Dallas (Dallas)",
-            "status": "PROGRAMADO",
-            "score": "14:00"
+            "status": "14:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -699,8 +699,8 @@
             "team2": "Suecia",
             "date": "Fase Final",
             "stadium": "Estadio Nueva York\/Nueva Jersey (Nueva Jersey)",
-            "status": "PROGRAMADO",
-            "score": "18:00"
+            "status": "18:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -708,8 +708,8 @@
             "team2": "Ecuador",
             "date": "Fase Final",
             "stadium": "Estadio Ciudad de México (Ciudad de México)",
-            "status": "PROGRAMADO",
-            "score": "22:00"
+            "status": "22:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -717,8 +717,8 @@
             "team2": "RD Congo",
             "date": "Fase Final",
             "stadium": "Estadio Atlanta (Atlanta)",
-            "status": "PROGRAMADO",
-            "score": "13:00"
+            "status": "13:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -726,8 +726,8 @@
             "team2": "Senegal",
             "date": "Fase Final",
             "stadium": "Estadio de Seattle (Seattle)",
-            "status": "PROGRAMADO",
-            "score": "17:00"
+            "status": "17:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -735,8 +735,8 @@
             "team2": "Bosnia y Herzegovina",
             "date": "Fase Final",
             "stadium": "Estadio de la Bahía de San Francisco (Área de la Bahía de San Francisco)",
-            "status": "PROGRAMADO",
-            "score": "21:00"
+            "status": "21:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -744,8 +744,8 @@
             "team2": "Austria",
             "date": "Fase Final",
             "stadium": "Estadio Los Angeles (Los Ángeles)",
-            "status": "PROGRAMADO",
-            "score": "16:00"
+            "status": "16:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -753,8 +753,8 @@
             "team2": "Croacia",
             "date": "Fase Final",
             "stadium": "Estadio de Toronto (Toronto)",
-            "status": "PROGRAMADO",
-            "score": "20:00"
+            "status": "20:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -762,8 +762,8 @@
             "team2": "Argelia",
             "date": "Fase Final",
             "stadium": "Estadio BC Place Vancouver (Vancouver)",
-            "status": "PROGRAMADO",
-            "score": "00:00"
+            "status": "00:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -771,8 +771,8 @@
             "team2": "Egipto",
             "date": "Fase Final",
             "stadium": "Estadio Dallas (Dallas)",
-            "status": "PROGRAMADO",
-            "score": "15:00"
+            "status": "15:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -780,8 +780,8 @@
             "team2": "Islas de Cabo Verde",
             "date": "Fase Final",
             "stadium": "Estadio Miami (Miami)",
-            "status": "PROGRAMADO",
-            "score": "19:00"
+            "status": "19:00",
+            "score": "-"
         },
         {
             "round": "Dieciseisavos de final",
@@ -789,8 +789,8 @@
             "team2": "Ghana",
             "date": "Fase Final",
             "stadium": "Estadio Kansas City (Kansas City)",
-            "status": "PROGRAMADO",
-            "score": "22:30"
+            "status": "22:30",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -798,8 +798,8 @@
             "team2": "Marruecos",
             "date": "Fase Final",
             "stadium": "Estadio Houston (Houston)",
-            "status": "PROGRAMADO",
-            "score": "14:00"
+            "status": "14:00",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -807,8 +807,8 @@
             "team2": "W77",
             "date": "Fase Final",
             "stadium": "Estadio Filadelfia (Filadelfia)",
-            "status": "PROGRAMADO",
-            "score": "18:00"
+            "status": "18:00",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -816,8 +816,8 @@
             "team2": "W78",
             "date": "Fase Final",
             "stadium": "Estadio Nueva York\/Nueva Jersey (Nueva Jersey)",
-            "status": "PROGRAMADO",
-            "score": "17:00"
+            "status": "17:00",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -825,8 +825,8 @@
             "team2": "W80",
             "date": "Fase Final",
             "stadium": "Estadio Ciudad de México (Ciudad de México)",
-            "status": "PROGRAMADO",
-            "score": "21:00"
+            "status": "21:00",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -834,8 +834,8 @@
             "team2": "W84",
             "date": "Fase Final",
             "stadium": "Estadio Dallas (Dallas)",
-            "status": "PROGRAMADO",
-            "score": "16:00"
+            "status": "16:00",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -843,8 +843,8 @@
             "team2": "W82",
             "date": "Fase Final",
             "stadium": "Estadio de Seattle (Seattle)",
-            "status": "PROGRAMADO",
-            "score": "21:00"
+            "status": "21:00",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -852,8 +852,8 @@
             "team2": "W88",
             "date": "Fase Final",
             "stadium": "Estadio Atlanta (Atlanta)",
-            "status": "PROGRAMADO",
-            "score": "13:00"
+            "status": "13:00",
+            "score": "-"
         },
         {
             "round": "Octavos de final",
@@ -861,8 +861,8 @@
             "team2": "W87",
             "date": "Fase Final",
             "stadium": "Estadio BC Place Vancouver (Vancouver)",
-            "status": "PROGRAMADO",
-            "score": "17:00"
+            "status": "17:00",
+            "score": "-"
         },
         {
             "round": "Cuartos de final",
@@ -870,8 +870,8 @@
             "team2": "W90",
             "date": "Fase Final",
             "stadium": "Estadio Boston (Boston)",
-            "status": "PROGRAMADO",
-            "score": "17:00"
+            "status": "17:00",
+            "score": "-"
         },
         {
             "round": "Cuartos de final",
@@ -879,8 +879,8 @@
             "team2": "W94",
             "date": "Fase Final",
             "stadium": "Estadio Los Angeles (Los Ángeles)",
-            "status": "PROGRAMADO",
-            "score": "16:00"
+            "status": "16:00",
+            "score": "-"
         },
         {
             "round": "Cuartos de final",
@@ -888,8 +888,8 @@
             "team2": "W92",
             "date": "Fase Final",
             "stadium": "Estadio Miami (Miami)",
-            "status": "PROGRAMADO",
-            "score": "18:00"
+            "status": "18:00",
+            "score": "-"
         },
         {
             "round": "Cuartos de final",
@@ -897,8 +897,8 @@
             "team2": "W96",
             "date": "Fase Final",
             "stadium": "Estadio Kansas City (Kansas City)",
-            "status": "PROGRAMADO",
-            "score": "22:00"
+            "status": "22:00",
+            "score": "-"
         },
         {
             "round": "Semifinal",
@@ -906,8 +906,8 @@
             "team2": "W98",
             "date": "Fase Final",
             "stadium": "Estadio Dallas (Dallas)",
-            "status": "PROGRAMADO",
-            "score": "16:00"
+            "status": "16:00",
+            "score": "-"
         },
         {
             "round": "Semifinal",
@@ -915,8 +915,8 @@
             "team2": "W100",
             "date": "Fase Final",
             "stadium": "Estadio Atlanta (Atlanta)",
-            "status": "PROGRAMADO",
-            "score": "16:00"
+            "status": "16:00",
+            "score": "-"
         },
         {
             "round": "Partido por el tercer puesto",
@@ -924,8 +924,8 @@
             "team2": "RU102",
             "date": "Fase Final",
             "stadium": "Estadio Miami (Miami)",
-            "status": "PROGRAMADO",
-            "score": "18:00"
+            "status": "18:00",
+            "score": "-"
         },
         {
             "round": "Final",
@@ -933,8 +933,8 @@
             "team2": "W102",
             "date": "Fase Final",
             "stadium": "Estadio Nueva York\/Nueva Jersey (Nueva Jersey)",
-            "status": "PROGRAMADO",
-            "score": "16:00"
+            "status": "16:00",
+            "score": "-"
         }
     ]
 }
