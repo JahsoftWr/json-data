@@ -708,8 +708,8 @@
             "team2": "Ecuador",
             "date": "martes 30 junio 2026",
             "stadium": "Estadio Ciudad de México (Ciudad de México)",
-            "status": "22:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 0"
         },
         {
             "round": "Dieciseisavos de final",
@@ -717,8 +717,8 @@
             "team2": "RD Congo",
             "date": "miércoles 01 julio 2026",
             "stadium": "Estadio Atlanta (Atlanta)",
-            "status": "13:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 1"
         },
         {
             "round": "Dieciseisavos de final",
@@ -821,8 +821,8 @@
         },
         {
             "round": "Octavos de final",
-            "team1": "W79",
-            "team2": "W80",
+            "team1": "México",
+            "team2": "Inglaterra",
             "date": "domingo 05 julio 2026",
             "stadium": "Estadio Ciudad de México (Ciudad de México)",
             "status": "21:00",
