@@ -735,8 +735,8 @@
             "team2": "Bosnia y Herzegovina",
             "date": "miércoles 01 julio 2026",
             "stadium": "Estadio de la Bahía de San Francisco (Área de la Bahía de San Francisco)",
-            "status": "21:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 0"
         },
         {
             "round": "Dieciseisavos de final",
@@ -840,7 +840,7 @@
         {
             "round": "Octavos de final",
             "team1": "W81",
-            "team2": "W82",
+            "team2": "Bélgica",
             "date": "lunes 06 julio 2026",
             "stadium": "Estadio de Seattle (Seattle)",
             "status": "21:00",
