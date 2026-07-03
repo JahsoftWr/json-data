@@ -744,8 +744,8 @@
             "team2": "Austria",
             "date": "jueves 02 julio 2026",
             "stadium": "Estadio Los Angeles (Los Ángeles)",
-            "status": "16:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "3 - 0"
         },
         {
             "round": "Dieciseisavos de final",
@@ -753,8 +753,8 @@
             "team2": "Croacia",
             "date": "jueves 02 julio 2026",
             "stadium": "Estadio de Toronto (Toronto)",
-            "status": "20:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 1"
         },
         {
             "round": "Dieciseisavos de final",
@@ -830,8 +830,8 @@
         },
         {
             "round": "Octavos de final",
-            "team1": "W83",
-            "team2": "W84",
+            "team1": "Portugal",
+            "team2": "España",
             "date": "lunes 06 julio 2026",
             "stadium": "Estadio Dallas (Dallas)",
             "status": "16:00",
@@ -839,7 +839,7 @@
         },
         {
             "round": "Octavos de final",
-            "team1": "W81",
+            "team1": "EE. UU.",
             "team2": "Bélgica",
             "date": "lunes 06 julio 2026",
             "stadium": "Estadio de Seattle (Seattle)",
