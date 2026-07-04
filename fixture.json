@@ -762,8 +762,8 @@
             "team2": "Argelia",
             "date": "viernes 03 julio 2026",
             "stadium": "Estadio BC Place Vancouver (Vancouver)",
-            "status": "00:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 0"
         },
         {
             "round": "Dieciseisavos de final",
@@ -771,8 +771,8 @@
             "team2": "Egipto",
             "date": "viernes 03 julio 2026",
             "stadium": "Estadio Dallas (Dallas)",
-            "status": "15:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "1 - 1 (2)-(4) (Pen)"
         },
         {
             "round": "Dieciseisavos de final",
@@ -780,8 +780,8 @@
             "team2": "Islas de Cabo Verde",
             "date": "viernes 03 julio 2026",
             "stadium": "Estadio Miami (Miami)",
-            "status": "19:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "3 - 2"
         },
         {
             "round": "Dieciseisavos de final",
@@ -789,8 +789,8 @@
             "team2": "Ghana",
             "date": "viernes 03 julio 2026",
             "stadium": "Estadio Kansas City (Kansas City)",
-            "status": "22:30",
-            "score": "-"
+            "status": "FINAL",
+            "score": "1 - 0"
         },
         {
             "round": "Octavos de final",
@@ -848,8 +848,8 @@
         },
         {
             "round": "Octavos de final",
-            "team1": "W86",
-            "team2": "W88",
+            "team1": "Argentina",
+            "team2": "Egipto",
             "date": "martes 07 julio 2026",
             "stadium": "Estadio Atlanta (Atlanta)",
             "status": "13:00",
@@ -857,8 +857,8 @@
         },
         {
             "round": "Octavos de final",
-            "team1": "W85",
-            "team2": "W87",
+            "team1": "Suiza",
+            "team2": "Colombia",
             "date": "martes 07 julio 2026",
             "stadium": "Estadio BC Place Vancouver (Vancouver)",
             "status": "17:00",
