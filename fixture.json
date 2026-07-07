@@ -798,8 +798,8 @@
             "team2": "Marruecos",
             "date": "sábado 04 julio 2026",
             "stadium": "Estadio Houston (Houston)",
-            "status": "14:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "0 - 3"
         },
         {
             "round": "Octavos de final",
@@ -807,8 +807,8 @@
             "team2": "Francia",
             "date": "sábado 04 julio 2026",
             "stadium": "Estadio Filadelfia (Filadelfia)",
-            "status": "18:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "0 - 1"
         },
         {
             "round": "Octavos de final",
@@ -816,8 +816,8 @@
             "team2": "Noruega",
             "date": "domingo 05 julio 2026",
             "stadium": "Estadio Nueva York\/Nueva Jersey (Nueva Jersey)",
-            "status": "17:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "1 - 2"
         },
         {
             "round": "Octavos de final",
@@ -825,8 +825,8 @@
             "team2": "Inglaterra",
             "date": "domingo 05 julio 2026",
             "stadium": "Estadio Ciudad de México (Ciudad de México)",
-            "status": "21:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 3"
         },
         {
             "round": "Octavos de final",
@@ -834,8 +834,8 @@
             "team2": "España",
             "date": "lunes 06 julio 2026",
             "stadium": "Estadio Dallas (Dallas)",
-            "status": "16:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "0 - 1"
         },
         {
             "round": "Octavos de final",
@@ -843,8 +843,8 @@
             "team2": "Bélgica",
             "date": "lunes 06 julio 2026",
             "stadium": "Estadio de Seattle (Seattle)",
-            "status": "21:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "1 - 4"
         },
         {
             "round": "Octavos de final",
@@ -852,8 +852,8 @@
             "team2": "Egipto",
             "date": "martes 07 julio 2026",
             "stadium": "Estadio Atlanta (Atlanta)",
-            "status": "13:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "3 - 2"
         },
         {
             "round": "Octavos de final",
@@ -861,13 +861,13 @@
             "team2": "Colombia",
             "date": "martes 07 julio 2026",
             "stadium": "Estadio BC Place Vancouver (Vancouver)",
-            "status": "17:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "0 - 0 (4)-(3) (Pen)"
         },
         {
             "round": "Cuartos de final",
-            "team1": "W89",
-            "team2": "W90",
+            "team1": "Francia",
+            "team2": "Marruecos",
             "date": "jueves 09 julio 2026",
             "stadium": "Estadio Boston (Boston)",
             "status": "17:00",
@@ -875,8 +875,8 @@
         },
         {
             "round": "Cuartos de final",
-            "team1": "W93",
-            "team2": "W94",
+            "team1": "España",
+            "team2": "Bélgica",
             "date": "viernes 10 julio 2026",
             "stadium": "Estadio Los Angeles (Los Ángeles)",
             "status": "16:00",
@@ -884,8 +884,8 @@
         },
         {
             "round": "Cuartos de final",
-            "team1": "W91",
-            "team2": "W92",
+            "team1": "Noruega",
+            "team2": "Inglaterra",
             "date": "sábado 11 julio 2026",
             "stadium": "Estadio Miami (Miami)",
             "status": "18:00",
@@ -893,8 +893,8 @@
         },
         {
             "round": "Cuartos de final",
-            "team1": "W95",
-            "team2": "W96",
+            "team1": "Argentina",
+            "team2": "Suiza",
             "date": "sábado 11 julio 2026",
             "stadium": "Estadio Kansas City (Kansas City)",
             "status": "22:00",
