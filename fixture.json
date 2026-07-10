@@ -870,8 +870,8 @@
             "team2": "Marruecos",
             "date": "jueves 09 julio 2026",
             "stadium": "Estadio Boston (Boston)",
-            "status": "17:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 0"
         },
         {
             "round": "Cuartos de final",
@@ -902,7 +902,7 @@
         },
         {
             "round": "Semifinal",
-            "team1": "W97",
+            "team1": "Francia",
             "team2": "W98",
             "date": "martes 14 julio 2026",
             "stadium": "Estadio Dallas (Dallas)",
