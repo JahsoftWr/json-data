@@ -879,8 +879,8 @@
             "team2": "Bélgica",
             "date": "viernes 10 julio 2026",
             "stadium": "Estadio Los Angeles (Los Ángeles)",
-            "status": "16:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "2 - 1"
         },
         {
             "round": "Cuartos de final",
@@ -888,8 +888,8 @@
             "team2": "Inglaterra",
             "date": "sábado 11 julio 2026",
             "stadium": "Estadio Miami (Miami)",
-            "status": "18:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "1 - 2"
         },
         {
             "round": "Cuartos de final",
@@ -897,13 +897,13 @@
             "team2": "Suiza",
             "date": "sábado 11 julio 2026",
             "stadium": "Estadio Kansas City (Kansas City)",
-            "status": "22:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "3 - 1"
         },
         {
             "round": "Semifinal",
             "team1": "Francia",
-            "team2": "W98",
+            "team2": "España",
             "date": "martes 14 julio 2026",
             "stadium": "Estadio Dallas (Dallas)",
             "status": "16:00",
@@ -911,8 +911,8 @@
         },
         {
             "round": "Semifinal",
-            "team1": "W99",
-            "team2": "W100",
+            "team1": "Inglaterra",
+            "team2": "Argentina",
             "date": "miércoles 15 julio 2026",
             "stadium": "Estadio Atlanta (Atlanta)",
             "status": "16:00",
