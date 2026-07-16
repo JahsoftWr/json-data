@@ -906,8 +906,8 @@
             "team2": "España",
             "date": "martes 14 julio 2026",
             "stadium": "Estadio Dallas (Dallas)",
-            "status": "16:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "0 - 2"
         },
         {
             "round": "Semifinal",
@@ -915,13 +915,13 @@
             "team2": "Argentina",
             "date": "miércoles 15 julio 2026",
             "stadium": "Estadio Atlanta (Atlanta)",
-            "status": "16:00",
-            "score": "-"
+            "status": "FINAL",
+            "score": "1 - 2"
         },
         {
-            "round": "Partido por el tercer puesto",
-            "team1": "RU101",
-            "team2": "RU102",
+            "round": "Bronze final",
+            "team1": "Francia",
+            "team2": "Inglaterra",
             "date": "sábado 18 julio 2026",
             "stadium": "Estadio Miami (Miami)",
             "status": "18:00",
@@ -929,8 +929,8 @@
         },
         {
             "round": "Final",
-            "team1": "W101",
-            "team2": "W102",
+            "team1": "España",
+            "team2": "Argentina",
             "date": "domingo 19 julio 2026",
             "stadium": "Estadio Nueva York\/Nueva Jersey (Nueva Jersey)",
             "status": "16:00",
